@@ -1,7 +1,4 @@
-README.md
 
+Burada yer alan proje örnekleri Hello World Youtube Kanalında Kadriye Macit' in hazırlamış olduğu eğitimlerde kullanılan Flutter proje örnekleridir. 
 
-
-Burada yer alan proje örnekleri Hello World Youtube Kanalında Kadriye Macit Eğitimlerinde kullanılan Flutter proje örnekleridir. 
-
-GitHub new repository açmak ve git ile Github repository me örnek proje dosyaları göndererek denemeler yapmak ve eğitimimi örnek uygulamalar ile güçlendirmek için kullanıyorum.
+GitHub new repository açmak ve .Git ile GitHub repository içerisine örnek proje dosyaları göndermek ve denemeler yapmak, eğitimimi örnek uygulamalar ile güçlendirmek için kullanıyorum.
